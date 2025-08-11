@@ -1,4 +1,5 @@
-:hide-url-scheme:
+
+Working with functional views in django, based off the hi-djan.tpl template
 
 Running simple django project with uv as project manager
 
